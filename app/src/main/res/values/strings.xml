@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">手势浏览器</string>
+    <string name="home">主页</string>
+    <string name="input_host">搜索或输入网址</string>
+    <string name="cancel">取消</string>
+    <string name="default_loading_msg">loading...</string>
+    <string name="unknown_size">Unknown size</string>
+    <string name="action_download">下载</string>
+    <string name="action_cancel">取消</string>
+    <string name="dialog_download">您是否需要下载此文件？ (%1$s)</string>
+    <string name="hint_history">搜索历史记录</string>
+    <string name="search">搜索</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
